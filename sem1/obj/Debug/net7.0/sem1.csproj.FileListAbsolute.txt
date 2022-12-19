@@ -1,0 +1,15 @@
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/bin/Debug/net7.0/sem1
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/bin/Debug/net7.0/sem1.deps.json
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/bin/Debug/net7.0/sem1.runtimeconfig.json
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/bin/Debug/net7.0/sem1.dll
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/bin/Debug/net7.0/sem1.pdb
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/sem1.csproj.AssemblyReference.cache
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/sem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/sem1.AssemblyInfoInputs.cache
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/sem1.AssemblyInfo.cs
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/sem1.csproj.CoreCompileInputs.cache
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/sem1.dll
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/refint/sem1.dll
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/sem1.pdb
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/sem1.genruntimeconfig.cache
+/Users/my/Desktop/Study/c#/.vscode/seminars/obj/sem1/obj/Debug/net7.0/ref/sem1.dll
