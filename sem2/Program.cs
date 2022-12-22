@@ -12,7 +12,8 @@ else
 
 Console.WriteLine("Задача 2: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет. (до 100000)");
 Console.Write("Введи число: ");
-string chislo = Console.ReadLine();
+int a = int.Parse(Console.ReadLine());
+string chislo = Convert.ToString(a);
 if (chislo.Length <= 2)
 {
     Console.WriteLine("Третьей цифры нет");
