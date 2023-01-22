@@ -73,8 +73,8 @@ int[] ItogoArray(int[] array)
     int[] result = new int[size];
     for (int i = 0; i < array.Length / 2; i++)
     {
-        result[i]= array[i] * array[array.Length - 1 - i];
+        result[i] = array[i] * array[array.Length - 1 - i];
     }
-    if (array. Length % 2 == 1) result[size-1] = array[array.Length / 2];
+    if (array.Length % 2 == 1) result[size - 1] = array[array.Length / 2];
     return result;
 }
